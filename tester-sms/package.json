@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "totalvoice-node": "^1.10.0"
+    "totalvoice-node": "^1.12.0"
   }
 }
